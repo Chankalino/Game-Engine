@@ -14,4 +14,4 @@ int main() {
 //Fuck Off..
 // I think I fixed it
 //Fuck yeeeeessssss!!!!
-	
+// Roger that its perfect .. bro from tomorrow we start no delays
